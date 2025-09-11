@@ -18,9 +18,6 @@ This is my **first Excel project**, where I built a dashboard to analyze **stude
 - Data Visualization  
 - Storytelling with Data
 
-## Preview  
-![Dashboard Screenshot](studentperformancedashboard.jpg)
-
 
 ---
 
