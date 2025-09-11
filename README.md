@@ -19,7 +19,7 @@ This is my **first Excel project**, where I built a dashboard to analyze **stude
 - Storytelling with Data
 
 ## Preview  
-![Dashboard Screenshot](student performance dashboard.jpg)
+![Dashboard Screenshot](studentperformancedashboard.jpg)
 
 
 ---
